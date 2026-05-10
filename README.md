@@ -26,9 +26,13 @@
 
 ## 👋 About Me
 
-I’m a **Senior AI Engineer** with **10+ years of experience** building scalable **GenAI, Agentic AI, Machine Learning, Cloud, Backend, and Data Engineering** solutions.
+I’m someone who enjoys building things that make complex work feel simple.
 
-I enjoy designing AI systems that are not just smart, but also **reliable, production-ready, secure, and useful for real business workflows**.
+I like working on AI systems that can search better, reason better, automate smarter, and turn scattered information into something useful. I’m especially drawn to the space where **AI, data, cloud, and real-world problem solving** come together.
+
+Outside of just writing code, I care about building solutions that are clean, dependable, and easy for teams to understand and use. I enjoy taking an unclear idea, breaking it down, designing the flow, and turning it into something practical.
+
+I’m always learning, experimenting, and looking for better ways to make AI systems more reliable, explainable, and production-ready.
 
 ---
 
@@ -85,7 +89,7 @@ Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory
 <img src="https://img.shields.io/badge/Prompt%20Engineering-D8BFD8?style=for-the-badge&logo=sparkles&logoColor=3B2F4A" />
 <img src="https://img.shields.io/badge/LLM%20Evaluation-C8A2C8?style=for-the-badge&logo=mlflow&logoColor=3B2F4A" />
 
-<br/><br/>
+<br/>
 
 ### 🌸 Machine Learning & Deep Learning
 
@@ -97,7 +101,7 @@ Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory
 <img src="https://img.shields.io/badge/Model%20Evaluation-F8F3FF?style=for-the-badge&logo=mlflow&logoColor=3B2F4A" />
 <img src="https://img.shields.io/badge/Anomaly%20Detection-F3E8FF?style=for-the-badge&logo=tensorflow&logoColor=3B2F4A" />
 
-<br/><br/>
+<br/>
 
 ### 🌸 NLP, Retrieval & Vector Search
 
@@ -109,7 +113,7 @@ Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory
 <img src="https://img.shields.io/badge/Re--Ranking-F8F3FF?style=for-the-badge&logo=semanticweb&logoColor=3B2F4A" />
 <img src="https://img.shields.io/badge/Context%20Management-F3E8FF?style=for-the-badge&logo=readthedocs&logoColor=3B2F4A" />
 
-<br/><br/>
+<br/>
 
 ### 🌸 Cloud, MLOps & Deployment
 
@@ -124,7 +128,7 @@ Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory
 <img src="https://img.shields.io/badge/CI%2FCD-D8BFD8?style=for-the-badge&logo=githubactions&logoColor=3B2F4A" />
 <img src="https://img.shields.io/badge/Terraform-C8A2C8?style=for-the-badge&logo=terraform&logoColor=3B2F4A" />
 
-<br/><br/>
+<br/>
 
 ### 🌸 Backend, Data Engineering & Analytics
 
@@ -142,18 +146,6 @@ Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory
 <img src="https://img.shields.io/badge/Azure%20Synapse-F3E8FF?style=for-the-badge&logo=microsoftazure&logoColor=3B2F4A" />
 
 </div>
-
----
-
-## 🧱 Core Engineering Strengths
-
-- Designing **enterprise AI architectures** from idea to production.
-- Building **RAG pipelines** with chunking, embeddings, vector search, re-ranking, and response grounding.
-- Developing **Agentic AI workflows** with tool calling, reasoning steps, orchestration, and context-aware automation.
-- Creating production **ML pipelines** with feature engineering, model evaluation, deployment, and monitoring.
-- Building scalable **FastAPI microservices** for AI inference, backend integrations, and real-time workflows.
-- Implementing **security, governance, observability, and cloud-native deployment patterns** for AI systems.
-- Working across **structured, semi-structured, and unstructured data** for AI, analytics, and enterprise use cases.
 
 ---
 
