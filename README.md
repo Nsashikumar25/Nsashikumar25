@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F3FF,50:E6D6F5,100:C8A2C8&height=180&section=header&text=Niveditha%20Sashikumar&fontSize=42&fontColor=3B2F4A&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Azure%20AI&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F3FF,50:E6D6F5,100:C8A2C8&height=180&section=header&text=Niveditha%20Sashikumar&fontSize=42&fontColor=3B2F4A&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineering%20%7C%20Python%20Development%20%7C%20Data%20Science&descAlignY=58&descSize=16" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=8E7CC3&center=true&vCenter=true&width=850&lines=Designing+RAG+platforms%2C+LLM+workflows%2C+and+AI+pipelines;Building+production-ready+GenAI+and+Agentic+AI+systems;Turning+complex+data+into+intelligent+cloud-native+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=8E7CC3&center=true&vCenter=true&width=850&lines=Designing+RAG+platforms%2C+LLM+workflows%2C+and+AI+pipelines;Building+production-ready+GenAI+and+Agentic+AI+systems;Blending+software+engineering%2C+data+science%2C+and+cloud-native+AI" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 
 I’m someone who enjoys building things that make complex work feel simple.
 
-I like working on AI systems that can search better, reason better, automate smarter, and turn scattered information into something useful. I’m especially drawn to the space where **AI, data, cloud, and real-world problem solving** come together.
+I like working on AI systems that can search better, reason better, automate smarter, and turn scattered information into something useful. I’m especially drawn to the space where **AI, data science, cloud, software engineering, and real-world problem solving** come together.
 
 Outside of just writing code, I care about building solutions that are clean, dependable, and easy for teams to understand and use. I enjoy taking an unclear idea, breaking it down, designing the flow, and turning it into something practical.
 
@@ -57,18 +57,24 @@ Design retrieval pipelines with **chunking, semantic search, re-ranking, groundi
 <tr>
 <td width="50%">
 
-### ⚙️ AI Backend Systems  
-Develop scalable backend services using **Python, FastAPI, REST APIs, microservices, and event-driven architecture**.
+### ⚙️ Software Engineering  
+Develop scalable backend services using **Python development, FastAPI, REST APIs, microservices, and event-driven architecture**.
 
 </td>
 <td width="50%">
 
-### 📊 Data & ML Pipelines  
-Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory, feature engineering, and model evaluation**.
+### 📊 Data Science & ML Pipelines  
+Build data science and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory, feature engineering, and model evaluation**.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 Project Development
+
+I build end-to-end AI and software projects — from idea, architecture, and backend development to data pipelines, model integration, testing, and cloud deployment.
 
 ---
 
@@ -91,15 +97,16 @@ Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory
 
 <br/>
 
-### 🌸 Machine Learning & Deep Learning
+### 🌸 Python Development, Machine Learning & Data Science
 
-<img src="https://img.shields.io/badge/Python-F8F3FF?style=for-the-badge&logo=python&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Scikit--learn-F3E8FF?style=for-the-badge&logo=scikitlearn&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/TensorFlow-E6D6F5?style=for-the-badge&logo=tensorflow&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/XGBoost-D8BFD8?style=for-the-badge&logo=python&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Feature%20Engineering-C8A2C8?style=for-the-badge&logo=databricks&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Model%20Evaluation-F8F3FF?style=for-the-badge&logo=mlflow&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Anomaly%20Detection-F3E8FF?style=for-the-badge&logo=tensorflow&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Python%20Development-F8F3FF?style=for-the-badge&logo=python&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Data%20Science-F3E8FF?style=for-the-badge&logo=python&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Scikit--learn-E6D6F5?style=for-the-badge&logo=scikitlearn&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/TensorFlow-D8BFD8?style=for-the-badge&logo=tensorflow&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/XGBoost-C8A2C8?style=for-the-badge&logo=python&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-F8F3FF?style=for-the-badge&logo=databricks&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-F3E8FF?style=for-the-badge&logo=mlflow&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Anomaly%20Detection-E6D6F5?style=for-the-badge&logo=tensorflow&logoColor=3B2F4A" />
 
 <br/>
 
@@ -130,20 +137,21 @@ Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory
 
 <br/>
 
-### 🌸 Backend, Data Engineering & Analytics
+### 🌸 Backend, Software Engineering & Analytics
 
-<img src="https://img.shields.io/badge/FastAPI-F8F3FF?style=for-the-badge&logo=fastapi&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Flask-F3E8FF?style=for-the-badge&logo=flask&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Django-E6D6F5?style=for-the-badge&logo=django&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/REST%20APIs-D8BFD8?style=for-the-badge&logo=swagger&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Microservices-C8A2C8?style=for-the-badge&logo=kubernetes&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Apache%20Spark-F8F3FF?style=for-the-badge&logo=apachespark&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/PySpark-F3E8FF?style=for-the-badge&logo=apachespark&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Databricks-E6D6F5?style=for-the-badge&logo=databricks&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/SQL-D8BFD8?style=for-the-badge&logo=postgresql&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/PostgreSQL-C8A2C8?style=for-the-badge&logo=postgresql&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-F8F3FF?style=for-the-badge&logo=microsoftazure&logoColor=3B2F4A" />
-<img src="https://img.shields.io/badge/Azure%20Synapse-F3E8FF?style=for-the-badge&logo=microsoftazure&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Software%20Engineering-F8F3FF?style=for-the-badge&logo=github&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/FastAPI-F3E8FF?style=for-the-badge&logo=fastapi&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Flask-E6D6F5?style=for-the-badge&logo=flask&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Django-D8BFD8?style=for-the-badge&logo=django&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/REST%20APIs-C8A2C8?style=for-the-badge&logo=swagger&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Microservices-F8F3FF?style=for-the-badge&logo=kubernetes&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Apache%20Spark-F3E8FF?style=for-the-badge&logo=apachespark&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/PySpark-E6D6F5?style=for-the-badge&logo=apachespark&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Databricks-D8BFD8?style=for-the-badge&logo=databricks&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/SQL-C8A2C8?style=for-the-badge&logo=postgresql&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/PostgreSQL-F8F3FF?style=for-the-badge&logo=postgresql&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-F3E8FF?style=for-the-badge&logo=microsoftazure&logoColor=3B2F4A" />
+<img src="https://img.shields.io/badge/Azure%20Synapse-E6D6F5?style=for-the-badge&logo=microsoftazure&logoColor=3B2F4A" />
 
 </div>
 
@@ -153,10 +161,13 @@ Build data and ML pipelines using **PySpark, SQL, Databricks, Azure Data Factory
 
 ```text
 Generative AI        🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪
+Software Engineering 🟪🟪🟪🟪🟪🟪🟪🟪🟪
+Python Development   🟪🟪🟪🟪🟪🟪🟪🟪🟪
 Agentic AI           🟪🟪🟪🟪🟪🟪🟪🟪🟪
 RAG Systems          🟪🟪🟪🟪🟪🟪🟪🟪🟪
+Data Science         🟪🟪🟪🟪🟪🟪🟪🟪
 MLOps / LLMOps       🟪🟪🟪🟪🟪🟪🟪🟪
 Cloud AI             🟪🟪🟪🟪🟪🟪🟪🟪
-NLP & Vector Search  🟪🟪🟪🟪🟪🟪🟪
 Data Engineering     🟪🟪🟪🟪🟪🟪🟪
 Backend APIs         🟪🟪🟪🟪🟪🟪
+Project Development  🟪🟪🟪🟪🟪🟪🟪🟪
